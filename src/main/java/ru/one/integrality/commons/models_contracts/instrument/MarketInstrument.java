@@ -38,7 +38,6 @@ public class MarketInstrument {
                 + ",\n         \"apiTradeAvailableFlag\":\"" + apiTradeAvailableFlag + "\""
                 + ",\n         \"shortTradeAvailableFlag\":\"" + shortTradeAvailableFlag + "\""
                 + ",\n         \"instrumentType\":\"" + instrumentType + "\""
-                + ",\n         \"otherParams\":" + otherParams
                 + "}}";
     }
 }
